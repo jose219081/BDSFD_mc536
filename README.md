@@ -1,2 +1,5 @@
-# BDSFD_mc536
-Repositório para projeto de banco de dados.
+# Equipe
+# Subgrupo BDSFD
+
+* José Felipe Theodoro RA:219081
+* Gustavo Henrique Luiz Merlo RA:171401
