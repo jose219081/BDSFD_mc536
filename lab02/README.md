@@ -6,7 +6,11 @@
 * Alexia Bettoni do Nascimento - RA: 265670
 
 ##Modelo conceitual ER
+<!---
 [comment]: <> <img src="images/ER_Diagram_MMORPG.png" width="400px" height="auto">
+-->
 
 ##Modelo conceitual UML
+<!---
 [comment]: <> <img src="images/ER_Diagram_MMORPG.png" width="400px" height="auto">
+-->
