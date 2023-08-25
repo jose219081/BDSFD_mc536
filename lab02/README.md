@@ -19,10 +19,10 @@ Estrutura de pastas:
 
 ## Modelo conceitual ER
 <!---
-<img src="imagem_ER.png" width="400px" height="auto">
+<img src="imagem_ER.jpeg" width="400px" height="auto">
 -->
 
 ## Modelo conceitual UML
 <!---
-<img src="imagem_UML.png" width="400px" height="auto">
+<img src="imagem_UML.jpeg" width="400px" height="auto">
 -->
